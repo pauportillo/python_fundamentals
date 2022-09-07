@@ -1,0 +1,18 @@
+HOBBIES
+
+- Crea un algoritmo para hacer tu pasatiempo favorito
+Uno de mis pasatiempos favoritos es leer
+
+1. Hago una lista de los libros que tengo disponibles
+2. Selecciono los mejores 3 libros para mi
+3. Hago la elección final del libro que voy a leer
+4. Voy por el libro elegido
+5. Empiezo a leer la portada
+6. Leo la contraportada
+7. Abro el libro
+8. Leo el epílogo
+9. Empiezo a leer el contenido del libro
+10. Leo aproximadamente de 30min a 1 hora
+11. Pongo una marca donde dejé de leer
+12. Cierro el libro
+13. Guardo el libro en su lugar
